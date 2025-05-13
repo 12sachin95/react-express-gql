@@ -1,6 +1,6 @@
 # Project Mgmt App
 
-This project uses react, expressjs and graphql
+This project uses react, expressjs and graphql.
 Project management app from Traversary media [GraphQL crash course](https://youtu.be/BcLNfwF04Kw) on YouTube
 
 ## Usage
