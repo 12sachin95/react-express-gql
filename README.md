@@ -1,6 +1,7 @@
 # Project Mgmt App
 
-Project management app from my [GraphQL crash course](https://youtu.be/BcLNfwF04Kw) on YouTube
+This project uses react, expressjs and graphql
+Project management app from Traversary media [GraphQL crash course](https://youtu.be/BcLNfwF04Kw) on YouTube
 
 ## Usage
 
